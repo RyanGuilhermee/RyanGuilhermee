@@ -1,6 +1,6 @@
 ## Olá 🙋🏻‍♂️
 
-Me chamo Ryan Guilherme 
+Meu nome é Ryan Guilherme 
 
 Iniciei na programação há pouco tempo, mas já estou desenvolvendo pequenos projetos para praticar.  
 A partir de agora, estarei atualizando meu GitHub com o que eu estou aprendendo.
