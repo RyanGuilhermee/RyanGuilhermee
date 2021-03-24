@@ -1,8 +1,7 @@
 ## Olá 🙋🏻‍♂️
 
 
-Me chamo Ryan Guilherme, comecei recentemente no mundo da programação e no curso de Análise e Desenvolvimento de Sistemas. Mas já estou desenvolvendo pequenos projetos para praticar.  
-A partir de agora, estarei atualizando meu GitHub com o que eu estou aprendendo.
+Me chamo Ryan Guilherme, comecei recentemente no mundo da programação e no curso de Análise e Desenvolvimento de Sistemas. Mas já estou desenvolvendo pequenos projetos para praticar. A partir de agora, estarei atualizando meu GitHub com o que eu estou aprendendo.
 
 &nbsp;
 ## Outros contatos 👇
