@@ -19,7 +19,6 @@ Me chamo Ryan Guilherme, comecei recentemente no mundo da programação e no cur
     <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="mongodb" width="30" height="30"/>
     <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="30" height="30"/>
     <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="30" height="30"/>
-    <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
     <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="30" alt="git">
